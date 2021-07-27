@@ -30,8 +30,8 @@ jobs:
       - name: git status
         id: git-status
         run: |
-          git config --global user.email "covid-bot@example.com"
-          git config --global user.name "covid-bot"
+          git config --global user.email "vacunacion-bot@example.com"
+          git config --global user.name "vacunacion-bot"
           echo ::set-output name=result::$(git status ./ | tr -d "\n" | grep -c "nothing to commit")
       - name: commit
         if: steps.git-status.outputs.result == 0
@@ -42,4 +42,4 @@ jobs:
         run: |
           git add -A
           git commit -m "[ci] $(date +%Y-%M-%d)"
-          git push -q "https://$GH_TOKEN@github.com/dquintani/covid.git" main
+          git push -q "https://$GH_TOKEN@github.com/dquintani/vacunacion.git" main
