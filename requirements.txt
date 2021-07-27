@@ -1,0 +1,7 @@
+
+numpy==1.19.5
+pandas==1.1.5
+nbconvert==6.0.7
+notebook==6.1.4
+matplotlib==3.3.2
+import datetime
