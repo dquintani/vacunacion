@@ -26,7 +26,7 @@ jobs:
       - name: run notebooks
         id: run_notebooks
         run: |
-          jupyter nbconvert --to notebook --inplace --execute vacuna_codigo.ipynb
+          jupyter nbconvert --to notebook --inplace --ExecutePreprocessor.kernel_name=python3 --execute vacuna_codigo.ipynb
       - name: git status
         id: git-status
         run: |
