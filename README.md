@@ -1,7 +1,9 @@
 # Datos de vacunación en Bolivia
-## Fuente oficial: Ministerio de Saludos. Datos provenientes de la transcripción de [@arraya_eduardo](www.twitter.com/arraya_eduardo) en su [repositorio de github](https://github.com/pr0nstar/covid19-data/blob/master/processed/bolivia/vaccinations.csv).
+## Fuente oficial: Ministerio de Salud. 
 
-## Datos procesados y visualizados por @boligrafica (Diego Acevedo Quintanilla)
+## Datos transcritos por [@arraya_eduardo](www.twitter.com/arraya_eduardo) en su [repositorio de github](https://github.com/pr0nstar/covid19-data/blob/master/processed/bolivia/vaccinations.csv).
+
+## Datos procesados y visualizados por @boligrafica ([Diego Acevedo Quintanilla](www.twitter.com/klimatica))
 
 
 ![Resumen nacional](https://github.com/dquintani/vacunacion/blob/main/resumen_nacional.jpg?raw=true)
