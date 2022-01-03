@@ -13,3 +13,5 @@
 ![Resumen Estadístico](https://github.com/dquintani/vacunacion/blob/main/resumen_departamental.jpg?raw=true)
 
 ![Cantidad diaria que recibe su primera dosis](https://github.com/dquintani/vacunacion/blob/main/primera_vacunacion.jpg?raw=true)
+
+![Habilitados refuerzo sin vacunar](https://github.com/dquintani/vacunacion/blob/main/habilitados_refuerzo1.jpg?raw=true)
