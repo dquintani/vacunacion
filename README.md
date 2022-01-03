@@ -14,4 +14,4 @@
 
 ![Cantidad diaria que recibe su primera dosis](https://github.com/dquintani/vacunacion/blob/main/primera_vacunacion.jpg?raw=true)
 
-![Habilitados refuerzo sin vacunar](https://github.com/dquintani/vacunacion/blob/main/habilitados_refuerzo1.jpg?raw=true)
+![Habilitados refuerzo sin vacunar](https://github.com/dquintani/vacunacion/blob/main/habilitado_refuerzo1.jpg?raw=true)
