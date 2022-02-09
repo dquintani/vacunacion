@@ -8,10 +8,10 @@
 
 ![Resumen nacional](https://github.com/dquintani/vacunacion/blob/main/resumen_nacional.jpg?raw=true)
 
-
-
 ![Resumen Estadístico](https://github.com/dquintani/vacunacion/blob/main/resumen_departamental.jpg?raw=true)
 
 ![Cantidad diaria que recibe su primera dosis](https://github.com/dquintani/vacunacion/blob/main/primera_vacunacion.jpg?raw=true)
 
 ![Habilitados refuerzo sin vacunar](https://github.com/dquintani/vacunacion/blob/main/habilitado_refuerzo1.jpg?raw=true)
+
+![Resumen detallado](https://github.com/dquintani/vacunacion/blob/main/resumen_detallado.jpg?raw=true)
